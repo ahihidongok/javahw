@@ -1,0 +1,64 @@
+
+Array content
+--------------------
+
+ Magic Bites 
+ The Phantom Tollbooth 
+ Guards, Guards 
+ The Princess Bride 
+ Soul Music 
+ Hogfather 
+ The Prisoner of Azkaban 
+ Jingo 
+ Spock Must Die 
+ A Wrinkle in Time 
+ Discovery 
+ Episode IV A New Hope 
+
+Array content
+--------------------
+
+Magic Bites
+Phantom Tollbooth, The
+Guards, Guards
+Princess Bride, The
+Soul Music
+Hogfather
+Prisoner of Azkaban, The
+Jingo
+Spock Must Die
+Wrinkle in Time, A
+Discovery
+Episode IV A New Hope
+
+Array content
+--------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Array content
+--------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
